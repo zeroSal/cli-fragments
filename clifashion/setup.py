@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="fash-cli",
+    name="clifashion",
     version="0.1.0",
     author="Luca Saladino",
     author_email="sal65535@protonmail.com",
-    description="Awesome terminal input and output functions for Python 3.x scripts",
+    description="Awesome terminal input and output functions for Python 3.x scripts.",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
