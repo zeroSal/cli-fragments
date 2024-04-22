@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="clifashion",
+    name="cli-fragments",
     version="0.1.0",
     author="Luca Saladino",
     author_email="sal65535@protonmail.com",

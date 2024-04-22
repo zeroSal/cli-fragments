@@ -1,6 +1,6 @@
 from typing import Callable
 
-class CliFashion:
+class CliFragments:
     def error(self, text: str):
         """Prints an error statement."""
 
