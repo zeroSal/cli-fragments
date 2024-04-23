@@ -1,5 +1,6 @@
 from typing import Callable
 
+
 class CliFragments:
     def error(self, text: str):
         """Prints an error statement."""

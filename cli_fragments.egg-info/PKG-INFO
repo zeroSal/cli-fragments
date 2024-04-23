@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: cli-fragments
+Version: 1.1.0
+Summary: Awesome CLI input and output functions for Python 3.x scripts.
+Author: Luca Saladino
+Author-email: sal65535@protonmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Freeware
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # cli-fragments
 Awesome terminal input and output functions for Python 3.x scripts.
 
