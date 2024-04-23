@@ -1,6 +1,8 @@
 # cli-fragments
 Awesome terminal input and output functions for Python 3.x scripts.
 
+View package on PyPi: https://pypi.org/project/cli-fragments/
+
 ## Why this name?
 I like to consider the command-line interface as if it were a graphical interface. In the development of graphical interfaces, 'components' are usually used to facilitate maintainability and design consistency. In my opinion, the word 'fragments' is a correct synonym to describe the same approach, but for command-line interfaces.
 
