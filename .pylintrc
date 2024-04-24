@@ -1,0 +1,9 @@
+[MASTER]
+
+disable=
+    missing-docstring
+
+[MESSAGES CONTROL]
+
+disable=
+    missing-docstring

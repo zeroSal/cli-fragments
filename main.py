@@ -1,5 +1,3 @@
-from cli_fragments.cli_fragments import CliFragments
-
 from cli_fragments import CliFragments
 
 
