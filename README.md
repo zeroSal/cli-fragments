@@ -1,4 +1,6 @@
 # cli-fragments
+[![Pylint](https://github.com/zeroSal/cli-fragments/actions/workflows/pylint.yml/badge.svg)](https://github.com/zeroSal/cli-fragments/actions/workflows/pylint.yml)
+
 Awesome terminal input and output functions for python scripts.
 
 ![jigsaw](https://github.com/zeroSal/cli-fragments/assets/38191926/6f22384b-ca65-49cd-bb00-2f1767739f95)
