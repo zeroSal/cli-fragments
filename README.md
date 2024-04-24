@@ -3,9 +3,9 @@
 
 Awesome terminal input and output functions for python scripts.
 
-![jigsaw](https://github.com/zeroSal/cli-fragments/assets/38191926/6f22384b-ca65-49cd-bb00-2f1767739f95)
+![image](https://github.com/zeroSal/cli-fragments/assets/38191926/80fa4195-db7e-4dec-be45-4a5d661ec097)
 
-[Icon by by Pop Vectors - Flaticon](https://www.flaticon.com/free-icons/puzzle")
+[Icon by Freepik - Flaticon](https://www.flaticon.com/free-icons/solution)
 
 ## Why this name?
 I like to consider the command-line interface as if it were a graphical interface. In the development of graphical interfaces, 'components' are usually used to facilitate maintainability and design consistency. In my opinion, the word 'fragments' is a correct synonym to describe the same approach, but for command-line interfaces.
