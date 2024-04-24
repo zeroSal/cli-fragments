@@ -17,6 +17,10 @@ I like to consider the command-line interface as if it were a graphical interfac
  - `notice`: a blue message having `[~]` as prefix
  - `ask`: a qustion to the user having `[?]` as prefix. The input value can be optionally validated passing a `validator` callback
 
+## Screenshot
+![image](https://github.com/zeroSal/cli-fragments/assets/38191926/1cb3b75d-bc35-4ef4-bd09-f99c5d79a31c)
+
+
 ## Usage
 
 First of all, you have to install the library using `pip`.
