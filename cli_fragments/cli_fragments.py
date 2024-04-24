@@ -50,7 +50,7 @@ class CliFragments:
 
         print(line)
 
-    def ask(self, question: str, default, validator=Callable[[str], str]):
+    def ask(self, question: str, default: str, validator: Callable[[str], str] = None):
         """Asks to the user an input and validates the value with the given validator function."""
 
         line = "\n[?] " + question
@@ -62,6 +62,9 @@ class CliFragments:
 
         while True:
             value = str(input(line))
+
+            if validator is None:
+                return value
 
             try:
                 validator(value)
