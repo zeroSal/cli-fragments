@@ -1,6 +1,10 @@
 # cli-fragments
 Awesome terminal input and output functions for python scripts.
 
+![jigsaw](https://github.com/zeroSal/cli-fragments/assets/38191926/6f22384b-ca65-49cd-bb00-2f1767739f95)
+
+[Icon by by Pop Vectors - Flaticon](https://www.flaticon.com/free-icons/puzzle")
+
 ## Why this name?
 I like to consider the command-line interface as if it were a graphical interface. In the development of graphical interfaces, 'components' are usually used to facilitate maintainability and design consistency. In my opinion, the word 'fragments' is a correct synonym to describe the same approach, but for command-line interfaces.
 
@@ -15,7 +19,7 @@ I like to consider the command-line interface as if it were a graphical interfac
 
 ## Usage
 
-First you have to install the library using `pip`.
+First of all, you have to install the library using `pip`.
 ```shell
 pip install cli-fragments
 ```
