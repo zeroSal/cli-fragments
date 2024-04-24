@@ -8,7 +8,7 @@ with open(path.join(HERE, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="cli-fragments",
-    version="1.1.0",
+    version="1.2.0",
     author="Luca Saladino",
     author_email="sal65535@protonmail.com",
     description="Awesome CLI input and output functions for Python 3.x scripts.",
